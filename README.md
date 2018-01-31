@@ -13,6 +13,7 @@ Instructors a hired on an hourly basis, and are payed 199 per hour. They don't h
 The members can have 2 types of membership
 * Basic
 * Full
+
 The Basic membership costs 199.-  a month, and the Full membership 299,- 
 
 You should make a program that consists of the following Classes and uses inheritance in the specified way: 
